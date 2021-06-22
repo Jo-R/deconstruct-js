@@ -1,0 +1,14 @@
+{
+  "version": "0.0.0",
+  "name": "deconstruct.js",
+  "description": "breaking down libraries and frameworks to understand them better",
+  "scripts": {
+    "dev": "tsc --noEmit && vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.2",
+    "vite": "^2.3.7"
+  }
+}
